@@ -10,7 +10,7 @@ For more information about the dVRK, see the [documentation](https://dvrk.readth
 * `dVRK-Si-Controller-Testing.docx`: Test instructions
 * `12v_wire_guide.step`: Design file for custom wire guide used inside controller
 
-## Release Files (Assets in Releases)
+## Release Files (Assets in [Releases](https://github.com/jhu-dvrk/dVRK-Si-Controller/releases/latest))
 
 * `dVRK-Si-Controller-BOM.pdf`: Bill of Materials (PDF)
 * `dVRK-Si-Controller-Assembly.pdf`: Assembly instructions (PDF)
