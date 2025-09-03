@@ -3,12 +3,20 @@
 This repository contains the documentation to build and test a da Vinci Research Kit Si (dVRK-Si) controller.
 For more information about the dVRK, see the [documentation](https://dvrk.readthedocs.io).
 
-## Files
+## Source Files (in repository)
 
 * `dVRK-Si-Controller-BOM.xlsx`: Bill of Materials
 * `dVRK-Si-Controller-Assembly.pptx`: Assembly instructions
 * `dVRK-Si-Controller-Testing.docx`: Test instructions
 * `12v_wire_guide.step`: Design file for custom wire guide used inside controller
+
+## Release Files (Assets in Releases)
+
+* `dVRK-Si-Controller-BOM.pdf`: Bill of Materials (PDF)
+* `dVRK-Si-Controller-Assembly.pdf`: Assembly instructions (PDF)
+* `dVRK-Si-Controller-Testing.pdf`: Test instructions (PDF)
+* `12v_wire_guide.stl`: STL file for custom wire guide
+* `dVRK-Si-Controller-Chassis-Rev3.zip`: ZIP file of chassis design (SolidWorks format)
 
 ## Links to custom electronics and embedded software
 
