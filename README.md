@@ -17,13 +17,14 @@ For more information about the dVRK, see the [documentation](https://dvrk.readth
 * `dVRK-Si-Controller-Assembly.pdf`: Assembly instructions (PDF)
 * `dVRK-Si-Controller-Testing.pdf`: Test instructions (PDF)
 * `12v_wire_guide.stl`: STL file for custom wire guide
-* `dVRK-Si-Controller-Chassis-RevX.zip`: ZIP file of chassis design (SolidWorks format)
-* `dVRK-Si-Controller-Chassis-RevX-Graphics.pdf`: Chassis graphics (PDF)
+* `dVRK-Si-Controller-Chassis-Rev*.zip`: ZIP file of chassis design (SolidWorks format)
+* `dVRK-Si-Controller-Chassis-Rev*-Graphics.pdf`: Chassis graphics (PDF)
 
 ## Links to custom electronics and embedded software
 
 * [FPGA V3](https://github.com/jhu-cisst/FPGA1394V3)
 * [DRAC](https://github.com/jhu-dvrk/drac)
 * [Front Panel LED](https://github.com/jhu-dvrk/dvrk-si-front-panel-led)
+* [Aux I/O Board](https://github.com/jhu-cisst/FPGA1394V3-IO-PCB)
 * [FPGA V3 embedded software](https://github.com/jhu-cisst/mechatronics-embedded)
 * [dVRK-Si Controller Test Board](https://github.com/jhu-dvrk/dvrk-si-test-board)
